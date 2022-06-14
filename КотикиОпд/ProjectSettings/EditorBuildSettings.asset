@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 8a0f14a22bd72ed4190a06a0e6c55637
+  - enabled: 1
+    path: Assets/Scenes/Day_0.unity
+    guid: 42d35e11810008c44bf6c51d86834b78
+  - enabled: 1
+    path: Assets/Scenes/Morning_1.unity
+    guid: cefa1014535f9b7488acd51e572421ea
+  - enabled: 1
+    path: Assets/Scenes/Day_1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Morning_2.unity
+    guid: ed50cd5f92384c549bb6854f182790f9
+  - enabled: 1
+    path: Assets/Scenes/Day_2.unity
+    guid: b678eaf4762bc834a97c1a8d6e10b77b
+  - enabled: 1
+    path: Assets/Scenes/Morning_3.unity
+    guid: dbc25ea324c7cbf49b24d0eab5c36742
+  - enabled: 1
+    path: Assets/Scenes/Day_3.unity
+    guid: 10b2ea148c59b6847a0d5c8a53ca8c9f
+  - enabled: 1
+    path: Assets/Scenes/Morning_4.unity
+    guid: 5aa4fe57f50bf2b4883748cd051ce980
+  - enabled: 1
+    path: Assets/Scenes/Day_4.unity
+    guid: 02fc8ccee0132cc4d8cd271c40a70d9d
+  - enabled: 1
+    path: Assets/Scenes/Morning_5.unity
+    guid: 1548ccb0741311044b716a0a809d83de
+  - enabled: 1
+    path: Assets/Scenes/Shop_1.unity
+    guid: 469c5ec63633db542acf44eacc400382
+  - enabled: 1
+    path: Assets/Scenes/Shop_2.unity
+    guid: b94da49bb09c8324593be7aafa1395c0
+  - enabled: 1
+    path: Assets/Scenes/Shop_3.unity
+    guid: a3f1f17215cba1247a92fef02bf0095d
+  m_configObjects: {}
